@@ -1,4 +1,4 @@
-package com.example.hospital_management_system.Doctor_Management;
+package com.example.hospital_management_system.base;
 
 public abstract class Person {
     private String id;
